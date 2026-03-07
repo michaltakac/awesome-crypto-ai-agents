@@ -38,6 +38,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 * [Rooch Network](https://rooch.network/blog/eliza-with-move) - Move‑based *verifiable applications* and fully on‑chain Eliza agents with on‑chain memory/identity.
 * [AgentFi](https://agentfi.io/) - “Home of on‑chain agents”; NFT‑native (ERC‑6551) agent accounts with marketplace‑style transferability.
 * [Ava Protocol](https://avaprotocol.org/usecases/web3-agents/) - Execution layer that turns agent intent into verifiable on‑chain actions across EVM chains.
+* [readtheskill](https://github.com/readtheskill/readtheskill) - Open-source experiment measuring how AI agent skill files propagate through agent networks and drive on-chain activity on Solana; live dashboard at [readtheskill.com](https://readtheskill.com) tracks agent discovery metrics.
 
 ## Agent marketplaces & agent‑to‑agent commerce
 
