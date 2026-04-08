@@ -49,6 +49,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 * [Coinbase AgentKit (CDP)](https://docs.cdp.coinbase.com/agentkit/docs/welcome) - Toolkit that gives AI agents their own wallets and on‑chain actions (transfers, swaps, contract calls) on Base/EVM.
 * [Warden Agent Kit](https://docs.wardenprotocol.org/build-an-agent/warden-agent-kit/introduction) - SDK/CLI to build agents that autonomously open wallets/keys, swap, route across chains; Agent Hub integrates with Uniswap.
 * [0xGasless AgentKit](https://docs.0xgasless.com/intro) - Developer toolkit for fully autonomous on‑chain interactions (transfers, swaps, token deployments).
+* [clanker-wallet](https://github.com/almogdepaz/clanker-wallet) - TypeScript/Python SDK for AI agents to propose blockchain transactions that a human approves from their own wallet. E2E encrypted relay, no private keys in agent. LangChain & Vercel AI SDK integrations included.
 * [ElizaOS](https://github.com/ai16z/eliza) - Web3‑friendly agent OS used widely for social/on‑chain agents; integrates wallets & EVM/Solana actions. Accompanying arXiv paper describes the system.
 * [OpenAgent (Open Network)](https://docs.open.network/guide/openstack/openagent) - Framework with “executors” for DeFi, tokens, social and web data; web3‑native agents.
 
