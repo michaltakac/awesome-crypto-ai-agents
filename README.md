@@ -81,6 +81,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 ## Analytics & indexing for agent economies
 
 * [Cookie DAO / cookie.fun](https://agents.cookie.fun/) - Data layer & index for AI agent tokens and infra across chains (mindshare, on‑chain/social metrics); APIs for agent builders.
+* [Sharpe MCP Server](https://www.sharpe.ai/docs/mcp-server) - MCP server for agent-ready crypto market intelligence across derivatives positioning, DEX flow, arbitrage, narratives, and exchange listings.
 
 ## Academic research & standards
 
