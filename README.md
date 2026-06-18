@@ -38,6 +38,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 * [Rooch Network](https://rooch.network/blog/eliza-with-move) - Move‑based *verifiable applications* and fully on‑chain Eliza agents with on‑chain memory/identity.
 * [AgentFi](https://agentfi.io/) - “Home of on‑chain agents”; NFT‑native (ERC‑6551) agent accounts with marketplace‑style transferability.
 * [Ava Protocol](https://avaprotocol.org/usecases/web3-agents/) - Execution layer that turns agent intent into verifiable on‑chain actions across EVM chains.
+* [Aeon](https://github.com/aaronjmars/aeon) - Open‑source (MIT) autonomous agent framework that runs unattended on GitHub Actions; skills settle USDC via the Bankr gateway and consume x402‑gated APIs, enabling scheduled on‑chain actions (approval revokes, token distribution) and on‑chain‑security audits on Base. *Status: public / mainnet — [GitHub](https://github.com/aaronjmars/aeon).*
 
 ## Agent marketplaces & agent‑to‑agent commerce
 
