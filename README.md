@@ -51,6 +51,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 * [0xGasless AgentKit](https://docs.0xgasless.com/intro) - Developer toolkit for fully autonomous on‑chain interactions (transfers, swaps, token deployments).
 * [ElizaOS](https://github.com/ai16z/eliza) - Web3‑friendly agent OS used widely for social/on‑chain agents; integrates wallets & EVM/Solana actions. Accompanying arXiv paper describes the system.
 * [OpenAgent (Open Network)](https://docs.open.network/guide/openstack/openagent) - Framework with “executors” for DeFi, tokens, social and web data; web3‑native agents.
+* [stipend](https://github.com/stipend-sh/stipend) - Non-custodial USDC wallet on Base an agent installs and runs by itself; per-transaction, per-day and per-counterparty caps plus a destination allowlist are enforced in code between deciding and signing, and cover buyer-side x402 auto-payments too. Local stdio MCP server, 7 tools. Python, Apache-2.0, unaudited. ([policy source](https://github.com/stipend-sh/stipend/blob/main/stipend/policy.py))
 
 ## Verifiable inference, AI oracles & model runtimes
 
