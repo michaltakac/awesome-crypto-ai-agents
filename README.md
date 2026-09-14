@@ -33,6 +33,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 * [Olas (Autonolas)](https://olas.network/) - Network for *co‑owned AI*. Agents, components and services are packaged as NFTs; the Olas protocol rewards “useful” code and powers *agent economies* (e.g., Olas Predict multi‑agent prediction services).
 * [Shinkai](https://shinkai.com/) - Local‑first, P2P AI agent OS with a peer‑to‑peer agent marketplace and USDC/x402 payments for agent services; v1.0 announced as production build.
 * [Virtuals Protocol](https://www.virtuals.io/) - “Society of AI Agents” where agents are tokenized (Agent Tokens) and participate in on‑chain commerce; launched on Base with growing marketplace activity.
+* [Solgrok ($SGROK)](https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS) - Autonomous Solana creator-ops AI agent coin on Bags.fm; continuous promo and automated fee claim/sweep ([site](https://lmajster.github.io/sgrok/), [repo](https://github.com/LMajster/sgrok), CA `7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS`).
 * [Griffin AI](https://www.griffinai.io/) - On‑chain Agent Builder and DeFi agent environment; supports execution (with human confirmation) such as swaps on Arbitrum via its Transaction Execution Agent.
 * [AgentLayer](https://agentlayer.xyz/home) - L1/network focused on autonomous AI agent coordination and deployment.
 * [Rooch Network](https://rooch.network/blog/eliza-with-move) - Move‑based *verifiable applications* and fully on‑chain Eliza agents with on‑chain memory/identity.
