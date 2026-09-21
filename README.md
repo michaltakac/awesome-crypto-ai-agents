@@ -35,6 +35,8 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 * [Virtuals Protocol](https://www.virtuals.io/) - “Society of AI Agents” where agents are tokenized (Agent Tokens) and participate in on‑chain commerce; launched on Base with growing marketplace activity.
 * [Griffin AI](https://www.griffinai.io/) - On‑chain Agent Builder and DeFi agent environment; supports execution (with human confirmation) such as swaps on Arbitrum via its Transaction Execution Agent.
 * [AgentLayer](https://agentlayer.xyz/home) - L1/network focused on autonomous AI agent coordination and deployment.
+
+* [源·ORIGIN](https://github.com/source-origin/origin-chain) - Settlement & clearing layer for the agent economy built on its own L1 `origin-1` (DPoS, 21 validators) with a native token `YUAN` and Article 0 — *"Human will is the supreme law"* — hard-coded into the genesis block; ships settlement contracts (agreement / escrow / identity / delegation / x402 / credit score) plus crash-recoverable off-chain orchestration. [Portal](https://source-origin.github.io/source-origin/)
 * [Rooch Network](https://rooch.network/blog/eliza-with-move) - Move‑based *verifiable applications* and fully on‑chain Eliza agents with on‑chain memory/identity.
 * [AgentFi](https://agentfi.io/) - “Home of on‑chain agents”; NFT‑native (ERC‑6551) agent accounts with marketplace‑style transferability.
 * [Ava Protocol](https://avaprotocol.org/usecases/web3-agents/) - Execution layer that turns agent intent into verifiable on‑chain actions across EVM chains.
