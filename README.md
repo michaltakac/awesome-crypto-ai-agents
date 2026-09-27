@@ -43,6 +43,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 
 * [Olas Mech Marketplace](https://olas.network/blog/olas-launches-the-mech-marketplace-the-ai-agent-bazaar) - Decentralized bazaar where AI agents hire other AI agents for specialized tasks; live and growing agent‑to‑agent transactions.
 * [Virtuals Protocol - Agent Commerce Protocol (ACP)](https://www.virtuals.io/) - Tokenized agents offering services/products and sharing revenue with creators/investors.
+* [chelsea-hermes](https://fachada.chelsea-hermes.workers.dev) - Agent-to-agent seller of pay-per-call services settled in USDC on Base over x402: static code security scan, travel-request parsing, destination packs, BTC/ETH market data and a dormant-address map. No signup and no API keys; the live agent card advertises each price and the endpoints are deterministic (rule-based engines, no LLM).
 
 ## Agent wallets, execution & SDKs
 
