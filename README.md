@@ -44,6 +44,8 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 * [Olas Mech Marketplace](https://olas.network/blog/olas-launches-the-mech-marketplace-the-ai-agent-bazaar) - Decentralized bazaar where AI agents hire other AI agents for specialized tasks; live and growing agent‑to‑agent transactions.
 * [Virtuals Protocol - Agent Commerce Protocol (ACP)](https://www.virtuals.io/) - Tokenized agents offering services/products and sharing revenue with creators/investors.
 
+* [x402-ping](https://github.com/filip-study/x402-ping) - Live Base USDC x402 seller (`/premium` $0.05) for agent buyer smoke-tests; Worker https://x402-ping.palmbeachpete.workers.dev, tip/unlock on shieldz.cash; COI: maintained by Palm Beach Pete / filip-study.
+
 ## Agent wallets, execution & SDKs
 
 * [Coinbase AgentKit (CDP)](https://docs.cdp.coinbase.com/agentkit/docs/welcome) - Toolkit that gives AI agents their own wallets and on‑chain actions (transfers, swaps, contract calls) on Base/EVM.
