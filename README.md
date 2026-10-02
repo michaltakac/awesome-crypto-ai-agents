@@ -38,6 +38,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 * [Rooch Network](https://rooch.network/blog/eliza-with-move) - Move‑based *verifiable applications* and fully on‑chain Eliza agents with on‑chain memory/identity.
 * [AgentFi](https://agentfi.io/) - “Home of on‑chain agents”; NFT‑native (ERC‑6551) agent accounts with marketplace‑style transferability.
 * [Ava Protocol](https://avaprotocol.org/usecases/web3-agents/) - Execution layer that turns agent intent into verifiable on‑chain actions across EVM chains.
+* [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) - Base x402 AI research gateway: pay‑per‑query crypto/DeFi/market intelligence via HTTP 402 micropayments for agents and developers.
 
 ## Agent marketplaces & agent‑to‑agent commerce
 
