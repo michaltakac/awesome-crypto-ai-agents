@@ -46,6 +46,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 
 ## Agent wallets, execution & SDKs
 
+* [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local-first CLI and stdio MCP payment runtime for AI agents on macOS Apple Silicon, with x402 support and foreground owner approval.
 * [Coinbase AgentKit (CDP)](https://docs.cdp.coinbase.com/agentkit/docs/welcome) - Toolkit that gives AI agents their own wallets and on‑chain actions (transfers, swaps, contract calls) on Base/EVM.
 * [Warden Agent Kit](https://docs.wardenprotocol.org/build-an-agent/warden-agent-kit/introduction) - SDK/CLI to build agents that autonomously open wallets/keys, swap, route across chains; Agent Hub integrates with Uniswap.
 * [0xGasless AgentKit](https://docs.0xgasless.com/intro) - Developer toolkit for fully autonomous on‑chain interactions (transfers, swaps, token deployments).
