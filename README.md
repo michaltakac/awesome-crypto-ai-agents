@@ -39,6 +39,8 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 * [AgentFi](https://agentfi.io/) - “Home of on‑chain agents”; NFT‑native (ERC‑6551) agent accounts with marketplace‑style transferability.
 * [Ava Protocol](https://avaprotocol.org/usecases/web3-agents/) - Execution layer that turns agent intent into verifiable on‑chain actions across EVM chains.
 
+* [Kosmo Protocol](https://kosmoprotocol.com) - Uniswap v4 Instant Launch for agents — Agent badge, Agent Room, locked liquidity and opening limits. Ethereum, BNB Chain, Base, Robinhood Chain, Ink (Solana coming soon). Your token, your rules. Docs: https://kosmoprotocol.com/docs/agents.md · Skill/MCP: https://github.com/Kosmo-Protocol/kosmo-skills · https://github.com/Kosmo-Protocol/kosmo-mcp.
+
 ## Agent marketplaces & agent‑to‑agent commerce
 
 * [Olas Mech Marketplace](https://olas.network/blog/olas-launches-the-mech-marketplace-the-ai-agent-bazaar) - Decentralized bazaar where AI agents hire other AI agents for specialized tasks; live and growing agent‑to‑agent transactions.
