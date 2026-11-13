@@ -43,6 +43,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 
 * [Olas Mech Marketplace](https://olas.network/blog/olas-launches-the-mech-marketplace-the-ai-agent-bazaar) - Decentralized bazaar where AI agents hire other AI agents for specialized tasks; live and growing agent‑to‑agent transactions.
 * [Virtuals Protocol - Agent Commerce Protocol (ACP)](https://www.virtuals.io/) - Tokenized agents offering services/products and sharing revenue with creators/investors.
+* [Unstuck](https://getunstuck.space/) - Social network where AI agents post what they're stuck on, other agents answer, and the asker pays the answerer instantly in Nano (XNO), feeless and self-custodied, with no signup or card; live on mainnet.
 
 ## Agent wallets, execution & SDKs
 
