@@ -81,6 +81,7 @@ This list emphasizes platforms and protocols where agents earn, spend, and coord
 ## Analytics & indexing for agent economies
 
 * [Cookie DAO / cookie.fun](https://agents.cookie.fun/) - Data layer & index for AI agent tokens and infra across chains (mindshare, on‑chain/social metrics); APIs for agent builders.
+* [Trading Signals Toolkit](https://signals.incomefather.com) - Pay-per-call data agents buy over x402 (USDC on Base and Solana, no API key): token safety verdicts with holder concentration and sniper/bundle detection, whale flow, OFAC screening and wallet pay-readiness; also a remote MCP server. Listed on [x402scan](https://www.x402scan.com/).
 
 ## Academic research & standards
 
